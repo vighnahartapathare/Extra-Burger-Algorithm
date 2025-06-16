@@ -11,7 +11,7 @@ A Python simulation that models making extra burgers from saved ingredients over
 
 ## Algorithm Summary
 
-- **Input:** Number of simulation days (`days = 10`)
+- **Input:** Number of simulation days (`days = 7`)
 - **Process:** Rotate through ingredients, remove and save one per day
 - **Output:** Number of extra burgers made
 
